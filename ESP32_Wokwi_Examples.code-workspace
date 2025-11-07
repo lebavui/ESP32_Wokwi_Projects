@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "ESP32_Wokwi"
+		},
+		{
+			"path": "ESP32_Wokwi_LED_Button"
+		},
+		{
+			"path": "ESP32_Wokwi_MQ2"
+		},
+		{
+			"path": "ESP32_Wokwi_LED_HTTP_Server"
+		},
+		{
+			"path": "ESP32_Wokwi_HTTP"
+		},
+		{
+			"path": "ESP32_Wokwi_MQTT"
+		},
+		{
+			"path": "ESP32_Wokwi_HTTP_Local"
+		},
+		{
+			"path": "ESP32_Wokwi_MQTT_Local"
+		}
+	],
+	"settings": {}
+}
