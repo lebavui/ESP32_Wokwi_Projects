@@ -23,7 +23,17 @@
 		},
 		{
 			"path": "ESP32_Wokwi_MQTT_Local"
+		},
+		{
+			"path": "ESP32_Wokwi_DualLED_FreeRTOS"
+		},
+		{
+			"path": "ESP32_Wokwi_BT4"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
 }
