@@ -26,9 +26,6 @@
 		},
 		{
 			"path": "ESP32_Wokwi_DualLED_FreeRTOS"
-		},
-		{
-			"path": "ESP32_Wokwi_BT4"
 		}
 	],
 	"settings": {
