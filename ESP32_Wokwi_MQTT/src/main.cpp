@@ -46,7 +46,11 @@ void setup() {
 
 void loop() {
   client.loop(); 
-
   client.publish("iotclass/telemetry", "{\"temperature\":25, \"humidity\":60}");
+  if (Serial.available()) {
+    String msg = Serial.readStringUntil('\n');
+    Serial.print("Echoing: ");
+    Serial.println(msg);
+  }
   delay(3000);
 }
